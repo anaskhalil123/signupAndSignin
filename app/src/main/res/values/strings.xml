@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignment_2</string>
+    <string name="don_t_have_an_account_click">Don’t have an account? Click  </string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="phone_number">phone number</string>
+    <string name="email">email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+</resources>
